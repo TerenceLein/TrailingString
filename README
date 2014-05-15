@@ -1,0 +1,4 @@
+Trailing String - c++ medium Code Eval challenge
+
+Given 2 comma separated strings, print 1 if the second string appears
+at the end of the first string. Otherwise print 0. Skip blank lines.
